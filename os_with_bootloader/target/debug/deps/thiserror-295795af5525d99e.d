@@ -1,0 +1,10 @@
+C:\Users\llota\OneDrive\Documents\University\YR3\SMS2\CSC 305\csc305_2023\os_with_bootloader\target\debug\deps\thiserror-295795af5525d99e.rmeta: C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.40\src\lib.rs C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.40\src\aserror.rs C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.40\src\display.rs C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.40\src\provide.rs
+
+C:\Users\llota\OneDrive\Documents\University\YR3\SMS2\CSC 305\csc305_2023\os_with_bootloader\target\debug\deps\libthiserror-295795af5525d99e.rlib: C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.40\src\lib.rs C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.40\src\aserror.rs C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.40\src\display.rs C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.40\src\provide.rs
+
+C:\Users\llota\OneDrive\Documents\University\YR3\SMS2\CSC 305\csc305_2023\os_with_bootloader\target\debug\deps\thiserror-295795af5525d99e.d: C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.40\src\lib.rs C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.40\src\aserror.rs C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.40\src\display.rs C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.40\src\provide.rs
+
+C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.40\src\lib.rs:
+C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.40\src\aserror.rs:
+C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.40\src\display.rs:
+C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.40\src\provide.rs:

@@ -1,0 +1,11 @@
+C:\Users\llota\OneDrive\Documents\University\YR3\SMS2\CSC 305\csc305_2023\os_with_bootloader\target\debug\deps\wyz-5623c034c7eeb84a.rmeta: C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wyz-0.5.1\src\lib.rs C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wyz-0.5.1\src\bidi.rs C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wyz-0.5.1\src\comu.rs C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wyz-0.5.1\src\fmt.rs C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wyz-0.5.1\src\range.rs
+
+C:\Users\llota\OneDrive\Documents\University\YR3\SMS2\CSC 305\csc305_2023\os_with_bootloader\target\debug\deps\libwyz-5623c034c7eeb84a.rlib: C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wyz-0.5.1\src\lib.rs C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wyz-0.5.1\src\bidi.rs C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wyz-0.5.1\src\comu.rs C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wyz-0.5.1\src\fmt.rs C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wyz-0.5.1\src\range.rs
+
+C:\Users\llota\OneDrive\Documents\University\YR3\SMS2\CSC 305\csc305_2023\os_with_bootloader\target\debug\deps\wyz-5623c034c7eeb84a.d: C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wyz-0.5.1\src\lib.rs C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wyz-0.5.1\src\bidi.rs C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wyz-0.5.1\src\comu.rs C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wyz-0.5.1\src\fmt.rs C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wyz-0.5.1\src\range.rs
+
+C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wyz-0.5.1\src\lib.rs:
+C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wyz-0.5.1\src\bidi.rs:
+C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wyz-0.5.1\src\comu.rs:
+C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wyz-0.5.1\src\fmt.rs:
+C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wyz-0.5.1\src\range.rs:

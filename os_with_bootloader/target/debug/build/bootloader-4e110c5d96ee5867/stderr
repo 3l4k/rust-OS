@@ -1,0 +1,244 @@
+    Updating crates.io index
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+ Downloading crates ...
+  Downloaded bootloader-x86_64-bios-stage-2 v0.11.3
+    Updating crates.io index
+    Blocking waiting for file lock on package cache
+ Downloading crates ...
+  Downloaded bootloader-x86_64-bios-stage-4 v0.11.3
+    Updating crates.io index
+    Blocking waiting for file lock on package cache
+ Downloading crates ...
+  Downloaded bootloader-x86_64-bios-stage-3 v0.11.3
+    Updating crates.io index
+    Blocking waiting for file lock on package cache
+ Downloading crates ...
+  Downloaded bootloader-x86_64-bios-boot-sector v0.11.3
+    Updating crates.io index
+    Blocking waiting for file lock on package cache
+ Downloading crates ...
+  Downloaded bootloader-x86_64-uefi v0.11.3
+    Blocking waiting for file lock on package cache
+  Installing bootloader-x86_64-bios-stage-2 v0.11.3
+    Blocking waiting for file lock on package cache
+  Installing bootloader-x86_64-bios-stage-4 v0.11.3
+    Blocking waiting for file lock on package cache
+  Installing bootloader-x86_64-bios-stage-3 v0.11.3
+    Blocking waiting for file lock on package cache
+  Installing bootloader-x86_64-bios-boot-sector v0.11.3
+    Blocking waiting for file lock on package cache
+    Updating crates.io index
+  Installing bootloader-x86_64-uefi v0.11.3
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Updating crates.io index
+    Blocking waiting for file lock on package cache
+    Updating crates.io index
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Updating crates.io index
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+warning: package `spin v0.9.5` in Cargo.lock is yanked in registry `crates-io`, consider running without --locked
+    Updating crates.io index
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+warning: package `spin v0.9.5` in Cargo.lock is yanked in registry `crates-io`, consider running without --locked
+    Updating crates.io index
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Updating crates.io index
+    Updating crates.io index
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Updating crates.io index
+ Downloading crates ...
+    Blocking waiting for file lock on package cache
+  Downloaded mbr-nostd v0.1.0
+  Downloaded bootloader-x86_64-bios-common v0.11.3
+ Downloading crates ...
+    Blocking waiting for file lock on package cache
+  Downloaded conquer-once v0.3.2
+  Downloaded rustc_version v0.4.0
+  Downloaded scopeguard v1.1.0
+  Downloaded stable_deref_trait v1.2.0
+  Downloaded zero v0.1.3
+  Downloaded conquer-util v0.3.0
+  Downloaded quote v1.0.23
+  Downloaded uart_16550 v0.2.18
+  Downloaded rand_hc v0.3.1
+  Downloaded xmas-elf v0.8.0
+  Downloaded rsdp v2.0.0
+  Downloaded serde-json-core v0.5.0
+  Downloaded semver v1.0.16
+  Downloaded proc-macro2 v1.0.51
+  Downloaded serde_derive v1.0.154
+  Downloaded lock_api v0.4.9
+  Downloaded rand_core v0.6.4
+  Downloaded spin v0.9.5
+  Downloaded log v0.4.17
+  Downloaded spinning_top v0.2.5
+  Downloaded heapless v0.7.16
+  Downloaded bootloader-x86_64-common v0.11.3
+  Downloaded serde v1.0.154
+  Downloaded raw-cpuid v10.7.0
+  Downloaded rand v0.8.5
+  Downloaded hash32 v0.2.1
+  Downloaded noto-sans-mono-bitmap v0.2.0
+ Downloading crates ...
+    Blocking waiting for file lock on package cache
+  Downloaded noto-sans-mono-bitmap v0.1.6
+    Updating crates.io index
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+ Downloading crates ...
+  Downloaded ucs2 v0.3.2
+  Downloaded uefi-macros v0.9.0
+  Downloaded uefi v0.18.0
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+   Compiling compiler_builtins v0.1.91
+   Compiling core v0.0.0 (C:\Users\llota\.rustup\toolchains\nightly-x86_64-pc-windows-msvc\lib\rustlib\src\rust\library\core)
+   Compiling bootloader-x86_64-bios-boot-sector v0.11.3
+   Compiling compiler_builtins v0.1.91
+   Compiling core v0.0.0 (C:\Users\llota\.rustup\toolchains\nightly-x86_64-pc-windows-msvc\lib\rustlib\src\rust\library\core)
+   Compiling bootloader-x86_64-bios-stage-3 v0.11.3
+   Compiling compiler_builtins v0.1.91
+   Compiling core v0.0.0 (C:\Users\llota\.rustup\toolchains\nightly-x86_64-pc-windows-msvc\lib\rustlib\src\rust\library\core)
+   Compiling bootloader-x86_64-bios-stage-2 v0.11.3
+   Compiling compiler_builtins v0.1.91
+   Compiling core v0.0.0 (C:\Users\llota\.rustup\toolchains\nightly-x86_64-pc-windows-msvc\lib\rustlib\src\rust\library\core)
+   Compiling proc-macro2 v1.0.51
+   Compiling compiler_builtins v0.1.91
+   Compiling unicode-ident v1.0.8
+   Compiling core v0.0.0 (C:\Users\llota\.rustup\toolchains\nightly-x86_64-pc-windows-msvc\lib\rustlib\src\rust\library\core)
+   Compiling quote v1.0.23
+   Compiling proc-macro2 v1.0.51
+   Compiling syn v1.0.109
+   Compiling autocfg v1.1.0
+   Compiling semver v1.0.16
+   Compiling quote v1.0.23
+   Compiling serde_derive v1.0.154
+   Compiling autocfg v1.1.0
+   Compiling lock_api v0.4.9
+   Compiling unicode-ident v1.0.8
+   Compiling rustversion v1.0.12
+   Compiling serde v1.0.154
+   Compiling lock_api v0.4.9
+   Compiling rustc_version v0.4.0
+   Compiling log v0.4.17
+   Compiling syn v1.0.109
+   Compiling bootloader_api v0.11.3
+   Compiling heapless v0.7.16
+   Compiling semver v1.0.16
+   Compiling serde_derive v1.0.154
+   Compiling serde v1.0.154
+   Compiling rustversion v1.0.12
+   Compiling log v0.4.17
+   Compiling rustc_version v0.4.0
+   Compiling bootloader_api v0.11.3
+   Compiling bootloader-x86_64-bios-stage-4 v0.11.3
+   Compiling uefi-macros v0.9.0
+   Compiling heapless v0.7.16
+   Compiling rustc-std-workspace-core v1.99.0 (C:\Users\llota\.rustup\toolchains\nightly-x86_64-pc-windows-msvc\lib\rustlib\src\rust\library\rustc-std-workspace-core)
+   Compiling rustc-std-workspace-core v1.99.0 (C:\Users\llota\.rustup\toolchains\nightly-x86_64-pc-windows-msvc\lib\rustlib\src\rust\library\rustc-std-workspace-core)
+   Compiling rustc-std-workspace-core v1.99.0 (C:\Users\llota\.rustup\toolchains\nightly-x86_64-pc-windows-msvc\lib\rustlib\src\rust\library\rustc-std-workspace-core)
+   Compiling rustc-std-workspace-core v1.99.0 (C:\Users\llota\.rustup\toolchains\nightly-x86_64-pc-windows-msvc\lib\rustlib\src\rust\library\rustc-std-workspace-core)
+   Compiling rustc-std-workspace-core v1.99.0 (C:\Users\llota\.rustup\toolchains\nightly-x86_64-pc-windows-msvc\lib\rustlib\src\rust\library\rustc-std-workspace-core)
+   Compiling byteorder v1.4.3
+   Compiling mbr-nostd v0.1.0
+   Compiling bootloader-x86_64-bios-common v0.11.3
+   Compiling noto-sans-mono-bitmap v0.1.6
+   Compiling bootloader-x86_64-bios-common v0.11.3
+    Finished stage-1 [optimized] target(s) in 2m 15s
+  Installing C:\Users\llota\OneDrive\Documents\University\YR3\SMS2\CSC 305\csc305_2023\os_with_bootloader\target\debug\build\bootloader-4e110c5d96ee5867\out\bin\bootloader-x86_64-bios-boot-sector
+   Installed package `bootloader-x86_64-bios-boot-sector v0.11.3` (executable `bootloader-x86_64-bios-boot-sector`)
+warning: be sure to add `C:\Users\llota\OneDrive\Documents\University\YR3\SMS2\CSC 305\csc305_2023\os_with_bootloader\target\debug\build\bootloader-4e110c5d96ee5867\out\bin` to your PATH to be able to run the installed binaries
+   Compiling scopeguard v1.1.0
+   Compiling scopeguard v1.1.0
+   Compiling bitflags v1.3.2
+   Compiling bit_field v0.10.2
+   Compiling rand_core v0.6.4
+    Finished stage-2 [optimized] target(s) in 2m 27s
+  Installing C:\Users\llota\OneDrive\Documents\University\YR3\SMS2\CSC 305\csc305_2023\os_with_bootloader\target\debug\build\bootloader-4e110c5d96ee5867\out\bin\bootloader-x86_64-bios-stage-2
+   Installed package `bootloader-x86_64-bios-stage-2 v0.11.3` (executable `bootloader-x86_64-bios-stage-2`)
+   Compiling bitflags v1.3.2
+warning: be sure to add `C:\Users\llota\OneDrive\Documents\University\YR3\SMS2\CSC 305\csc305_2023\os_with_bootloader\target\debug\build\bootloader-4e110c5d96ee5867\out\bin` to your PATH to be able to run the installed binaries
+   Compiling byteorder v1.4.3
+   Compiling bit_field v0.10.2
+   Compiling rand_core v0.6.4
+   Compiling byteorder v1.4.3
+   Compiling volatile v0.4.6
+   Compiling cfg-if v1.0.0
+   Compiling cfg-if v1.0.0
+   Compiling volatile v0.4.6
+   Compiling x86_64 v0.14.10
+   Compiling hash32 v0.2.1
+   Compiling spin v0.9.5
+   Compiling hash32 v0.2.1
+   Compiling x86_64 v0.14.10
+   Compiling conquer-util v0.3.0
+   Compiling zero v0.1.3
+   Compiling spin v0.9.5
+   Compiling stable_deref_trait v1.2.0
+   Compiling zero v0.1.3
+   Compiling conquer-once v0.3.2
+   Compiling xmas-elf v0.8.0
+   Compiling stable_deref_trait v1.2.0
+   Compiling conquer-util v0.3.0
+   Compiling conquer-once v0.3.2
+   Compiling uart_16550 v0.2.18
+   Compiling bootloader-boot-config v0.11.3
+   Compiling uart_16550 v0.2.18
+   Compiling rand v0.8.5
+   Compiling rand_hc v0.3.1
+   Compiling bootloader-boot-config v0.11.3
+   Compiling raw-cpuid v10.7.0
+   Compiling spinning_top v0.2.5
+   Compiling xmas-elf v0.8.0
+   Compiling rand_hc v0.3.1
+   Compiling ucs2 v0.3.2
+   Compiling ryu v1.0.13
+   Compiling noto-sans-mono-bitmap v0.2.0
+   Compiling usize_conversions v0.2.0
+   Compiling rand v0.8.5
+   Compiling spinning_top v0.2.5
+   Compiling serde-json-core v0.5.0
+   Compiling raw-cpuid v10.7.0
+   Compiling noto-sans-mono-bitmap v0.2.0
+   Compiling bootloader-x86_64-common v0.11.3
+   Compiling uefi v0.18.0
+   Compiling ryu v1.0.13
+   Compiling usize_conversions v0.2.0
+   Compiling serde-json-core v0.5.0
+   Compiling bootloader-x86_64-common v0.11.3
+   Compiling rsdp v2.0.0
+   Compiling bootloader-x86_64-bios-common v0.11.3
+   Compiling bootloader-x86_64-uefi v0.11.3
+    Finished release [optimized] target(s) in 2m 57s
+warning: the following packages contain code that will be rejected by a future version of Rust: uefi v0.18.0
+note: to see what the problems were, use the option `--future-incompat-report`, or run `cargo report future-incompatibilities --id 1`
+  Installing C:\Users\llota\OneDrive\Documents\University\YR3\SMS2\CSC 305\csc305_2023\os_with_bootloader\target\debug\build\bootloader-4e110c5d96ee5867\out\bin\bootloader-x86_64-uefi.efi
+   Installed package `bootloader-x86_64-uefi v0.11.3` (executable `bootloader-x86_64-uefi.efi`)
+    Finished stage-4 [optimized + debuginfo] target(s) in 2m 57s
+  Installing C:\Users\llota\OneDrive\Documents\University\YR3\SMS2\CSC 305\csc305_2023\os_with_bootloader\target\debug\build\bootloader-4e110c5d96ee5867\out\bin\bootloader-x86_64-bios-stage-4
+   Installed package `bootloader-x86_64-bios-stage-4 v0.11.3` (executable `bootloader-x86_64-bios-stage-4`)
+warning: be sure to add `C:\Users\llota\OneDrive\Documents\University\YR3\SMS2\CSC 305\csc305_2023\os_with_bootloader\target\debug\build\bootloader-4e110c5d96ee5867\out\bin` to your PATH to be able to run the installed binaries
+warning: be sure to add `C:\Users\llota\OneDrive\Documents\University\YR3\SMS2\CSC 305\csc305_2023\os_with_bootloader\target\debug\build\bootloader-4e110c5d96ee5867\out\bin` to your PATH to be able to run the installed binaries
+    Finished stage-3 [optimized + debuginfo] target(s) in 3m 32s
+  Installing C:\Users\llota\OneDrive\Documents\University\YR3\SMS2\CSC 305\csc305_2023\os_with_bootloader\target\debug\build\bootloader-4e110c5d96ee5867\out\bin\bootloader-x86_64-bios-stage-3
+   Installed package `bootloader-x86_64-bios-stage-3 v0.11.3` (executable `bootloader-x86_64-bios-stage-3`)
+warning: be sure to add `C:\Users\llota\OneDrive\Documents\University\YR3\SMS2\CSC 305\csc305_2023\os_with_bootloader\target\debug\build\bootloader-4e110c5d96ee5867\out\bin` to your PATH to be able to run the installed binaries

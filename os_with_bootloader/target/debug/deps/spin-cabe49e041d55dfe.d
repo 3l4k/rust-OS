@@ -1,0 +1,12 @@
+C:\Users\llota\OneDrive\Documents\University\YR3\SMS2\CSC 305\csc305_2023\os_with_bootloader\target\debug\deps\spin-cabe49e041d55dfe.rmeta: C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\lib.rs C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\barrier.rs C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\lazy.rs C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\mutex.rs C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\mutex\spin.rs C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\once.rs C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\relax.rs C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\rwlock.rs
+
+C:\Users\llota\OneDrive\Documents\University\YR3\SMS2\CSC 305\csc305_2023\os_with_bootloader\target\debug\deps\spin-cabe49e041d55dfe.d: C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\lib.rs C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\barrier.rs C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\lazy.rs C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\mutex.rs C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\mutex\spin.rs C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\once.rs C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\relax.rs C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\rwlock.rs
+
+C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\lib.rs:
+C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\barrier.rs:
+C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\lazy.rs:
+C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\mutex.rs:
+C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\mutex\spin.rs:
+C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\once.rs:
+C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\relax.rs:
+C:\Users\llota\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\rwlock.rs:
